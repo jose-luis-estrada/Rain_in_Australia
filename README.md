@@ -1,5 +1,5 @@
 # Rain in Australia
-This project is a part of the [Applied Data Science master's progam](https://onlinedegrees.sandiego.edu/masters-applied-data-science/) at the [University of San Diego](https://www.sandiego.edu).
+This project is a part of the [Applied Data Science master's program](https://onlinedegrees.sandiego.edu/masters-applied-data-science/) at the [University of San Diego](https://www.sandiego.edu).
 
 #### -- Project Status: Completed
 
