@@ -1,5 +1,5 @@
 # Rain in Australia
-This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
+This project is a part of the [Applied Data Science master's progam](https://onlinedegrees.sandiego.edu/masters-applied-data-science/) at the [University of San Diego](https://www.sandiego.edu).
 
 #### -- Project Status: Completed
 
