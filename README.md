@@ -4,7 +4,7 @@ This project is a part of the [Applied Data Science master's program](https://on
 #### -- Project Status: Completed
 
 ## Project Intro/Objective
-This project aims to use different data mining techniques to compare the model's accuracy to each other and select the best model that can be used for the deployment phase. The project's scope is to analyze the weather in Australia from the given dates in the dataset, choose the best data mining model, and evaluate the performance of the model. The project will not go over the deployment phase.
+This project aims to use different data mining techniques to compare each model's accuracy to each other and select the best model that can be used for the deployment phase. The project's scope is to analyze the weather in Australia from the given dates in the dataset, choose the best data mining model, and evaluate the performance of the model. The project will not go over the deployment phase.
 
 ### Partner
 * Dallin Munger
